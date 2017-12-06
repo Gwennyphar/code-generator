@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Code Studio2
+Name[de]=Code Studio2
+Comment=generates sourcecode
+Comment[de]=Quellcodes generieren
+Exec=/usr/share/Code-Studio2/run.sh
+Icon=Icon
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=false
+Name[de_DE]=Code Studio2

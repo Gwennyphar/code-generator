@@ -1,0 +1,11 @@
+Package: Code-Studio2
+Version: 2.1-1ubuntu2
+Section: Development
+Priority: extra
+Architecture: all
+Depends:
+Installed-Size: 8
+Maintainer: Nico Anders <nicoanders@freemail.de>
+Description: Schlanker und leicht zu bedienender Codegenerator
+ "Eigene C Quellcodes generieren"
+
